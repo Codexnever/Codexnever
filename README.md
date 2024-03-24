@@ -4,7 +4,7 @@ I'm Chaitanya.K, a self-taught full-stack web developer with a boundless enthusi
 
 #### 🌱 Self-Taught Journey
 
-Without a formal degree, my journey into the world of web development has been driven by pure passion and a relentless pursuit of knowledge. I've independently mastered Full-stack developer, and I'm always hungry for more.
+my journey into the world of web development has been driven by pure passion and a relentless pursuit of knowledge. I've independently mastered Full-stack developer, and I'm always hungry for more.
 
 #### 💡 Aspiring Developer
 
