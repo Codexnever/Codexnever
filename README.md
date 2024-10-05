@@ -29,9 +29,6 @@ I firmly believe in the power of continuous learning. Whether it's tackling codi
 
 I'm currently working on Instahyre clone , aiming to demonstrate my skills and contribute to the tech community.
 
-#### 🚀 Collaborate with Me
-
-I'm open to collaboration, mentorship, and any opportunity that allows me to learn and contribute. If you share a passion for technology, let's connect and create something extraordinary!
 
 #### 💻 Open Source Enthusiast
 
