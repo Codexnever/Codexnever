@@ -27,7 +27,7 @@ I firmly believe in the power of continuous learning. Whether it's tackling codi
 
 #### 🌐 Projects in the Making
 
-I'm currently working on Instahyre clone , aiming to demonstrate my skills and contribute to the tech community.
+I'm currently working on No-code AI workflow, aiming to demonstrate my skills and contribute to the tech community.
 
 
 #### 💻 Open Source Enthusiast
